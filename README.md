@@ -1,6 +1,6 @@
 ## Sensu-Plugins-vmstats
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-vmstats.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-vmstats)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-vmstats.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-vmstats)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-vmstats.svg)](http://badge.fury.io/rb/sensu-plugins-vmstats)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-vmstats/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-vmstats)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-vmstats/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-vmstats)
