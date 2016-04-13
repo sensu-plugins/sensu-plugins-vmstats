@@ -24,7 +24,7 @@ deploy:
     secure: ALZmspSEe3XiQBKLpuk3YlCiw8U9izPwvAhvdFOr0V5XkuuMIj7h0fRTnEX90LXPcinGDbmUQdMTt0b2QlSuzrV8xGeWBTT3KQnrRAUmWCinbLI/owKmmScLpmhNUIVEZrucpUmbdTMddzymQ3ZAAOXVI3taYf3U6PdEdvQJfbs=
   gem: sensu-plugins-vmstats
   on:
-    ags: true
+    tags: true
     all_branches: true
     rvm: 1.9.3
     rvm: 2.0
