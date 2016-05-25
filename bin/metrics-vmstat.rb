@@ -77,7 +77,8 @@ class VMStat < Sensu::Plugin::Metric::CLI::Graphite
         user: result[12],
         system: result[13],
         idle: result[14],
-        waiting: result[15]
+        waiting: result[15],
+        steal: result[16]
       }
     }
     metrics.each do |parent, children|
