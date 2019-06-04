@@ -13,7 +13,7 @@ The Sensu assets packaged from this repository are built against the Sensu Ruby 
 ## Functionality
 
 ## Files
- * bin/metrics-vmstats.rb
+ * bin/metrics-vmstat.rb
 
 ## Usage
 
