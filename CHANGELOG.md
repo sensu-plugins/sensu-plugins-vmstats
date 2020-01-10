@@ -7,6 +7,7 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ### Added
 - Updated asset build targets to support centos6
+- Removed centos from bonsai asset definition
 
 ## [2.0.0] - 2018-05-07
 ### Breaking Changes
