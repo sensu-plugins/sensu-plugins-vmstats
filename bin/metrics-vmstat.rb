@@ -1,5 +1,6 @@
 #! /usr/bin/env ruby
-#  encoding: UTF-8
+# frozen_string_literal: true
+
 #   <script name>
 #
 # DESCRIPTION:
@@ -41,7 +42,6 @@ class VMStat < Sensu::Plugin::Metric::CLI::Graphite
         converted = Integer(value)
         values[index] = converted
         # #YELLOW
-      rescue ArgumentError # rubocop:disable HandleExceptions
       end
     end
     values

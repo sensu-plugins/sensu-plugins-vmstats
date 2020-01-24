@@ -15,6 +15,8 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ### Changed
 - Removed Ruby 2.0, 2.1, and 2.2 support
+- Updated rubocop to '~> 0.79.0'
+- Remediated new issues identified by updated rubocop
 
 ### Added
 - Ruby 2.4.1 testing
