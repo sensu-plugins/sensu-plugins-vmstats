@@ -5,12 +5,19 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ## [Unreleased]
 
+### Added
+- Updated asset build targets to support centos6
+- Removed centos from bonsai asset definition
+
 ## [2.0.0] - 2018-05-07
 ### Breaking Changes
 - Bump `sensu-plugin` dependency from `~> 1.2` to `~> 4.0` you can read the changelog entries for [4.0](https://github.com/sensu-plugins/sensu-plugin/blob/master/CHANGELOG.md#400---2018-02-17), [3.0](https://github.com/sensu-plugins/sensu-plugin/blob/master/CHANGELOG.md#300---2018-12-04), and [2.0](https://github.com/sensu-plugins/sensu-plugin/blob/master/CHANGELOG.md#v200---2017-03-29)
 
 ### Changed
 - Removed Ruby 2.0, 2.1, and 2.2 support
+- Updated rubocop to '~> 0.79.0'
+- Remediated new issues identified by updated rubocop
+- Updated rake to '~> 13.0'
 
 ### Added
 - Ruby 2.4.1 testing
