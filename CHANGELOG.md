@@ -8,6 +8,9 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 ### Added
 - Updated asset build targets to support centos6
 - Removed centos from bonsai asset definition
+- Updated rubocop to '~> 0.79.0'
+- Remediated new issues identified by updated rubocop
+- Updated rake to '~> 13.0'
 
 ## [2.0.0] - 2018-05-07
 ### Breaking Changes
@@ -15,9 +18,6 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ### Changed
 - Removed Ruby 2.0, 2.1, and 2.2 support
-- Updated rubocop to '~> 0.79.0'
-- Remediated new issues identified by updated rubocop
-- Updated rake to '~> 13.0'
 
 ### Added
 - Ruby 2.4.1 testing
